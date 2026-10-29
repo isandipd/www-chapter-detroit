@@ -14,6 +14,28 @@ postal-code: 48201
 
 ---
 
+![Banner Image](assets/images/dtroitbanner.jpg)
+
+## Welcome to the OWASP Detroit chapter
+
+Welcome to the revitalized OWASP Detroit chapter. This newly vitalized local chapter builds on the experience of seasoned cybersecurity professionals.
+The goal of this chapter is to promote Application Security in the age of AI
+
+# OWASP Detroit Chapter Leadership
+
+If you want to know more about the OWASP Detroit chapter then please mail below chapter leaders/founding members:
+
+* [Enida Metaj](mailto:enida13m@gmail.com)
+* [Peeyush Srivastava](mailto:peeyushsri@owasp.org)
+* [Sandip Dholakia](mailto:sandipd@owasp.org)
+
+# Chapter Meetings
+
+Stay tuned for more information.
+
+#OWASP Membership
+
+[Join OWASP](https://owasp.org/membership)!
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
